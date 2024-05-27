@@ -73,12 +73,18 @@ join_date: Date when the customer joined the loyalty program
 
 # **Conclusions**
 
-**Customer Spending**: Identified total spending by each customer, providing insights into customer value.
+After conducting the analysis, I've uncovered several noteworthy findings that could be valuable for Danny:
 
-**Visiting Patterns**: Analyzed visit frequency to understand customer engagement.
+Customer B holds the record for the most visits, with six visits in January 2021.
 
-**Menu Preference**s: Determined favorite menu items and most popular choices per customer.
+The most popular item at Danny's Diner is ramen.
 
-**Loyalty Program Impact**: Evaluated the influence of the loyalty program on customer purchases and calculated points earned.
+Customer A and C are fans of ramen, while Customer B seems to enjoy sushi, curry, and ramen equally.
 
-**Business Recommendations**: Suggested enhancements to menu items based on popularity and advised on loyalty program expansion to boost customer retention.
+Customer A was the first member to join Danny's Diner, with their initial order being curry.
+
+Prior to becoming members, Customer A spent $25 and Customer B spent $40.
+
+In January 2021, Customer A accumulated 860 points, Customer B had 940 points, and Customer C had 360 points.
+
+Assuming members can earn double points weekly from their registration date—excluding just sushi—Customer A has amassed 1370 points, and Customer B has 820 points by the end of January 2021.
