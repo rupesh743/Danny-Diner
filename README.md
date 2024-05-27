@@ -4,22 +4,36 @@ Analyzed Danny's Diner customer data to uncover insights on visiting patterns, s
 **Danny's Diner Case Study**
 
 Table of Contents
+
 Introduction
+
 Datasets
+
 sales
 menu
 members
+
 Case Study Questions
 Q1: Total Amount Spent by Each Customer
+
 Q2: Number of Days Each Customer Visited
+
 Q3: First Item Purchased by Each Customer
+
 Q4: Most Purchased Item
+
 Q5: Most Popular Item for Each Customer
+
 Q6: First Item Purchased After Becoming a Member
+
 Q7: Item Purchased Just Before Becoming a Member
+
 Q8: Total Items and Amount Spent Before Membership
+
 Q9: Points Calculation
+
 Q10: Points After Joining the Program
+
 Conclusions
 
 Introduction
