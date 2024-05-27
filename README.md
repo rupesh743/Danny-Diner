@@ -15,7 +15,7 @@ members
 
 **Case Study Questions**
 
-Total Amount Spent by Each Customer
+* Total Amount Spent by Each Customer
 
 Number of Days Each Customer Visited
 
