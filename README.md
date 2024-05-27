@@ -3,40 +3,41 @@ Analyzed Danny's Diner customer data to uncover insights on visiting patterns, s
 
 **Danny's Diner Case Study**
 
-Table of Contents
+**Table of Contents**
 
-Introduction
+**Introduction**
 
-Datasets
+**Datasets**
 
-sales
-menu
+sales,
+menu,
 members
 
-Case Study Questions
-Q1: Total Amount Spent by Each Customer
+**Case Study Questions**
 
-Q2: Number of Days Each Customer Visited
+Total Amount Spent by Each Customer
 
-Q3: First Item Purchased by Each Customer
+Number of Days Each Customer Visited
 
-Q4: Most Purchased Item
+First Item Purchased by Each Customer
 
-Q5: Most Popular Item for Each Customer
+Most Purchased Item
 
-Q6: First Item Purchased After Becoming a Member
+Most Popular Item for Each Customer
 
-Q7: Item Purchased Just Before Becoming a Member
+First Item Purchased After Becoming a Member
 
-Q8: Total Items and Amount Spent Before Membership
+Item Purchased Just Before Becoming a Member
 
-Q9: Points Calculation
+Total Items and Amount Spent Before Membership
 
-Q10: Points After Joining the Program
+Points Calculation
 
-Conclusions
+Points After Joining the Program
 
-Introduction
+**Conclusions**
+
+# **Introduction**
 Danny's Diner, a quaint restaurant specializing in sushi, curry, and ramen, is owned by Danny, a Japanese food enthusiast. Since its inception in early 2021, Danny has been collecting basic customer data but lacks the analytical expertise to leverage it for business insights. This case study aims to analyze customer behaviors, spending patterns, and menu preferences to help Danny enhance customer experience and make informed decisions about expanding the customer loyalty program.
 
 Datasets
